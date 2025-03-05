@@ -1,4 +1,4 @@
-#  Contador de Palabras en un Archivo de Texto (C)
+#  Contador de Palabras en un Archivo de Texto (C) (punto 3)
 
 Este programa en **C** permite contar cuántas veces aparece una palabra clave dentro de un archivo de texto.
 
