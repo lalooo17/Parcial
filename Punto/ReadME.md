@@ -1,4 +1,4 @@
-# Analizador Léxico en AWK
+# Analizador Léxico en AWK (punto 1)
 
 Este script en **AWK** analiza tokens en una línea de texto e identifica si son operadores (`+`, `++`), números enteros, números reales o tokens desconocidos.
 
