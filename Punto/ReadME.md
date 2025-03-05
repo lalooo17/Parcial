@@ -28,9 +28,11 @@ Ubicamos la carpeta donde se encuentra el archivo "Automata.awk" y "token.txt":
 
 
 Otorgamos permisos con:
-chmod +x Automata.awk
+
+    chmod +x Automata.awk
 
 Ejecutamos con:
+    
     ./Automata.awk token.txt
 
 ##Salida esperada: 
