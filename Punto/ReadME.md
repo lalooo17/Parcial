@@ -16,7 +16,7 @@ El script recorre cada palabra (token) en la entrada y la clasifica en una de la
 | `3.14` | REAL          |
 | `xyz`  | TOKEN DESCONOCIDO |
 
-### Ejemplo de uso:
+ Ejemplo de uso:
 
 Instalar:
 
@@ -35,7 +35,7 @@ Ejecutamos con:
     
     ./Automata.awk token.txt
 
-##Salida esperada: 
+Salida esperada: 
 
     '+' SUMA
     ++ INCR
