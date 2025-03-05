@@ -9,15 +9,18 @@ Utiliza `fgets()` para leer línea por línea y `strstr()` para localizar las co
 
 ## Requisitos para su correcta ejecución: 
 Instalar:
-sudo apt update && sudo apt install gcc 
+
+    sudo apt update && sudo apt install gcc 
 
 Compilamos:
-gcc -o buscar contadorDePalabra.c
+    
+    gcc -o buscar contadorDePalabra.c
 
 Ejecutamos: 
-./buscar key.txt Arroz
+    
+    ./buscar key.txt Arroz
 
 ##Salida esperada: 
 
-La palabra 'Arroz' se repite 10 veces en el texto. 
+    La palabra 'Arroz' se repite 10 veces en el texto. 
 
